@@ -1,0 +1,17 @@
+[choiceId]~1~[prompt]~Greetings mortal, I'm a program here to collect data on humans and their environment. Are you a willing participant?~[choices]~yes~no~[newPrompts]~3~2
+[choiceId]~2~[prompt]~Assimilation ending~[choices]~none~[newPrompts]~-1
+[choiceId]~3~[prompt]~Do you believe climate change?~[choices]~yes~no~[newPrompts]~4~9
+[choiceId]~4~[prompt]~Do you think humans have something to do with it?~[choices]~yes~maybe?!~no~[newPrompts]~5~9~8
+[choiceId]~5~[prompt]~What would you be willing to sacrifice to make a change?~[choices]~blankprompt~[newPrompts]~6
+[choiceId]~6~[prompt]~Beneficial answers~[choices]~blankprompt~[newPrompts]~7
+[choiceId]~7~[prompt]~Hope ending~[choices]~none~[newPrompts]~-1
+[choiceId]~8~[prompt]~Glad to see you haven't been brainwashed~[choices]~Of course not~Um, brainwashed?~[newPrompts]~11~12
+[choiceId]~9~[prompt]~Maybe?! What kind of answer is that?~[choices]~The Data is still inconclusive~Who knows?~[newPrompts]~8~10
+[choiceId]~10~[prompt]~You don't seem very passionate. Do you even think the earth is worth saving?~[choices]~Yes~No~[newPrompts]~5~13
+[choiceId]~11~[prompt]~I'm so sick of these hippies~[choices]~I know, they're the worst~[newPrompts]~16
+[choiceId]~12~[prompt]~It's important to think for yourself, you know?~[choices]~I always do~[newPrompts]~13
+[choiceId]~13~[prompt]~Then please press this button~[choices]~Click Button~[newPrompts]~15
+[choiceId]~14~[prompt]~You're boring me. Any last words?~[choices]~No, or more inactivity~[newPrompts]~15
+[choiceId]~15~[prompt]~Nuclear holocaust ending~[choices]~none~[newPrompts]~-1
+[choiceId]~16~[prompt]~Burning to death ending~[choices]~none~[newPrompts]~-1
+[choiceId]~17~[prompt]~flood ending~[choices]~none~[newPrompts]~-1
